@@ -2,9 +2,7 @@
 	id: "be41bca9-9c1c-4a18-b349-233625a00094"
 	type: "player"
 	player_name: "Niko_Kun"
-	ranks: {
-		be41bca9-9c1c-4a18-b349-233625a00094: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Niko_Kun"
 		"ftbteams:description": ""

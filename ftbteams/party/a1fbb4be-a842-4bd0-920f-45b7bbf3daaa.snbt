@@ -1,0 +1,34 @@
+{
+	id: "a1fbb4be-a842-4bd0-920f-45b7bbf3daaa"
+	type: "party"
+	owner: "be41bca9-9c1c-4a18-b349-233625a00094"
+	ranks: {
+		1a558a7b-f24d-4e8e-8d6b-aa2d6a789f02: "member"
+		be41bca9-9c1c-4a18-b349-233625a00094: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Niko_Kun's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5970FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1760719646041L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Niko_Kun\"}]}" }
+		{ from: "be41bca9-9c1c-4a18-b349-233625a00094", date: 1760719646048L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Notch_e_Jeb\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1760719648513L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Notch_e_Jeb\"}]}" }
+	]
+	extra: { }
+}
